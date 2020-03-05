@@ -31,8 +31,8 @@ import { Component } from 'es-components/lib';
   <meta charset="UTF-8" />
   <title>My ES Components Site</title>
   <!-- These fonts are used in the Icon sets, and in general font styles. -->
-  <link rel="stylesheet" href="https://cdn.rawgit.com/WTW-IM/es-assets/8fbaf85d/font.css" />
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet" />
+  <link rel="stylesheet" href="https://bdaim-webexcdn-p.azureedge.net/es-assets/icons.css" />
+  <link rel="stylesheet" href="https://bdaim-webexcdn-p.azureedge.net/es-assets/source-sans-pro.css" />
   <!-- You must include React and Styled Components. ES Components depends on those packages. -->
   <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
